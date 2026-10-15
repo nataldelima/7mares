@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#004e7c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Document paper -->
+  <path d="M 10,10 L 40,10 L 48,18 L 48,56 L 10,56 Z" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+  <path d="M 40,10 L 40,18 L 48,18" fill="#bae6fd" stroke="#0284c7" stroke-width="2"/>
+
+  <!-- Lines -->
+  <line x1="18" y1="22" x2="32" y2="22" stroke="#0369a1" stroke-width="2"/>
+  <line x1="18" y1="30" x2="38" y2="30" stroke="#0369a1" stroke-width="2"/>
+  <line x1="18" y1="38" x2="34" y2="38" stroke="#0369a1" stroke-width="2"/>
+
+  <!-- Signature line -->
+  <path d="M 18,48 Q 24,44 28,47 T 38,46" stroke="#0369a1" stroke-width="2.5"/>
+
+  <!-- Pen / Quill writing -->
+  <g transform="translate(36, 26) rotate(45)">
+    <path d="M 0,0 L 6,0 L 3,18 Z" fill="#facc15" stroke="#d97706" stroke-width="1.5"/>
+    <rect x="0" y="-18" width="6" height="18" fill="#0284c7" stroke="#004e7c" stroke-width="1.5"/>
+    <circle cx="3" cy="-18" r="3" fill="#ef4444"/>
+  </g>
+</svg>

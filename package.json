@@ -1,0 +1,19 @@
+{
+  "name": "7mares-escola-nautica",
+  "version": "1.0.0",
+  "description": "Website Oficial da 7 Mares Arrais - Escola Náutica e Despachante Náutico",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "escola-nautica",
+    "arrais-amador",
+    "motonauta",
+    "despachante-nautico",
+    "marinha-do-brasil",
+    "campo-grande"
+  ],
+  "author": "7 Mares Arrais",
+  "license": "MIT"
+}

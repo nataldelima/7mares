@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#004e7c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Speedboat / Motorboat Hull -->
+  <path d="M 6,38 L 48,38 L 58,26 L 22,26 Z" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+  <path d="M 12,26 L 26,14 L 38,14 L 46,26" stroke="#0369a1" stroke-width="2.5" fill="none"/>
+  <!-- Windshield -->
+  <path d="M 28,17 L 36,17 L 42,26 L 24,26 Z" fill="#bae6fd" stroke="#0284c7" stroke-width="1.5"/>
+  <!-- Water Waves -->
+  <path d="M 4,46 C 12,42 18,50 26,46 C 34,42 40,50 48,46 C 54,43 58,46 62,45" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M 10,53 C 18,49 24,57 32,53 C 40,49 46,57 54,53" stroke="#93c5fd" stroke-width="2"/>
+</svg>
